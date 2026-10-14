@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "- Pritesh Patel - George Brown Polytechnic",
   "private": true,
+  "homepage": "https://YashZinzuvadiya.github.io/COMP3104",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
